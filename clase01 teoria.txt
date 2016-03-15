@@ -8,3 +8,10 @@ git bash ---consola
 git git --interfaz
 git init here---control de codigo fuente
 git branch---dividir en rama
+
+
+////fuente/////
+1: http://php.net/downloads.php
+2: http://www.w3schools.com/php/php_variables.asp
+3: https://css-tricks.com/
+4: https://www.freshdesignweb.com/css-registration-form-templates/
