@@ -11,7 +11,16 @@ git branch---dividir en rama
 
 
 ////fuente/////
+---funciones y guia--
 1: http://php.net/downloads.php
 2: http://www.w3schools.com/php/php_variables.asp
-3: https://css-tricks.com/
+---diseño------
+3: https://css-tricks.com/----
 4: https://www.freshdesignweb.com/css-registration-form-templates/
+
+
+----------------------
+atributos importantes dentro del html:
+1: id
+2: Class
+3: name
