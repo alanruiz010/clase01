@@ -1,5 +1,8 @@
 Cliente
-estilo / estructura / logica
+estilo / estructura/ logica
+______/___________/__________
+css3 /html5	 /  js
+
 -----------
 git bash ---consola
 git git --interfaz
