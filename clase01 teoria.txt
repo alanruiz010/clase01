@@ -1,0 +1,7 @@
+Cliente
+estilo / estructura / logica
+-----------
+git bash ---consola
+git git --interfaz
+git init here---control de codigo fuente
+git branch---dividir en rama
